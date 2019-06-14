@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3BB554B3-D71C-A674-6112-A48871E48C91}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MobileARCourse/Scripts/ARLessons.cs">
+    <Files>
+      <File FileName="Assets/MobileARCourse/Scripts/ARLessons.cs" Line="26" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arcourse" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MobileARCourse" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="ARLessons.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Unity-Logs-Viewer" expanded="True">
+                <Node name="Reporter" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="32eac44a-8a23-4acc-a8b0-a8d05a807a15" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
